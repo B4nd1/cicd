@@ -3,8 +3,9 @@
 CI/CD környezet kialakítása és alkalmazása 1 labor repository-ja
 
 
+[![Actions Status](https://github.com/B4nd1/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/B4nd1/cicd/actions)
 
-
+[Latest release](https://github.com/B4nd1/cicd/releases/tag/latest)
 
 
 
