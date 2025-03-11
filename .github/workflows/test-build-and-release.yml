@@ -45,8 +45,6 @@ jobs:
       - name: Creating neptun.txt
         run: |
           echo "JBH2LD" > neptun.txt
-        run: |
-          gcc operations.c simplecalculator.c -o simplecalculator
       - name: Creating tar.gz
         run: |
           tar -czvf simplecalculator.tar.gz simplecalculator neptun.txt
